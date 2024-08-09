@@ -1,0 +1,44 @@
+*
+{
+    box-sizing: border-box;
+    font-family: Arial;
+    color: #fff;
+}
+
+body
+{
+    padding: 20px;
+    background-color: #222;
+}
+
+img
+{
+    width: 50%;
+    border-radius: 5px;
+}
+
+h1
+{
+    color: #ff371c;
+}
+
+div h1
+{
+    color: #ff1c1c;
+}
+
+#imgs
+{
+    display: flex;
+    gap: 5px;
+}
+
+#imgs img
+{
+    width: 50%;
+}
+
+hr
+{
+    margin: 20px;
+}
